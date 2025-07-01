@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://thellmbook.github.io/al-folio/sitemap.xml
+Sitemap: https://thellmbook.github.io/sitemap.xml
